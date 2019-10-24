@@ -36,3 +36,13 @@ Resume should be:
 ✅ Technical Knowledge/Skills should include what they are looking for. Only show years if it is impressive  
 ✅ Include only sections/items that are impressive: Experience, Projects, Education, Technical Skills  
 ✅ No typos or bad grammar
+
+## How to create experience
+
+1. Github
+
+2. Portfolio Website
+
+3. One-Two big projects
+
+4. Blogs
