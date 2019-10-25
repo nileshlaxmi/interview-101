@@ -14,9 +14,10 @@
 2. Hackernews (Google: Hackernews who is hiring?)
 3. AngelList for StartUps
 4. Hired
-5. Triplebyte like HackerEarth
+5. TripleByte like HackerEarth
 6. White Truffle
 7. Remote
+8. MeetUp
 
 ## Portfolio
 
